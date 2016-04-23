@@ -6,3 +6,5 @@ For public file with write access, multiple users can write to a same file but, 
 Technologies used: Java , MySql
 
 Java APIs used : Collections, Socket, IO
+
+This project was built using Netbeans and is desktop application 
